@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sujalkamble007/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sujalkamble007/Leetcode/tree/master/0062-unique-paths) |
 | [1014-k-closest-points-to-origin](https://github.com/sujalkamble007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2050-count-good-numbers](https://github.com/sujalkamble007/Leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sujalkamble007/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sujalkamble007/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sujalkamble007/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/sujalkamble007/Leetcode/tree/master/2050-count-good-numbers) |
 ## Counting
 |  |
 | ------- |
