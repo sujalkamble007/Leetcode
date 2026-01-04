@@ -1,18 +1,21 @@
 class Solution {
 public:
+    //Create the index variable 
+        //for keeping the track of next place of non-repeting number
+    //iterate thorugh loop and check previous elements 
+        //if not equal to its previous element then put it at index 
+            //i.e nums[i] != nums[i-1]
+                 //do nums[index++] = nums[i]; 
+    //return index
+    
     int removeDuplicates(vector<int>& nums) {
-        //here we keep the track of the unique element 
-            //return unique lenght
-        //for that count ===> replace the elements for unique palaces 
-            //if nums[i] != nums[i-1] then put it into unique place 
-        
-        int count=1;
+        int index = 1;
         int n=nums.size();
         for(int i=1;i<n;i++){
             if(nums[i] != nums[i-1]){
-                nums[count++]=nums[i];
+                nums[index++] = nums[i];
             }
         }
-        return count;
+        return index;
     }
 };
