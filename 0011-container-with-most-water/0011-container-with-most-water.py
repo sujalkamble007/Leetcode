@@ -1,17 +1,17 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        res = 0 
-        l , r = 0 , len(height)-1
+        res = 0
+        l , r = 0 , len(height) - 1 
         while l < r :
-            h = min (height[l] , height[r])
-            w = (r - l)
+            h = min(height[l] , height[r])
+            w = r- l
             area = h*w 
-            res = max(res , area )
+            res = max(area , res)
 
-            if height[l] <= height[r]:
-                l+=1
+            if height[l] < height[r] :
+                l+=1 
             else :
                 r-=1
         
-        return res
+        return res 
         
