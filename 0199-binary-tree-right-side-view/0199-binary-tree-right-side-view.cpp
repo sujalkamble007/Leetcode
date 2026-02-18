@@ -11,29 +11,18 @@
  */
 class Solution {
 public:
+    void rightView(TreeNode* root , int level , vector<int>& ans){
+        if(root == NULL) return ;
+
+        if(level == ans.size()){
+            ans.push_back(root->val);
+        }
+        rightView(root->right , level+1 , ans);
+        rightView(root->left , level+1 , ans);
+    }
     vector<int> rightSideView(TreeNode* root) {
         vector<int>ans;
-        if(root == NULL)return ans;
-
-        map<int , int >mapp;
-        queue<pair<TreeNode* , int>>q;
-        q.push({root , 0});
-        while(!q.empty()){
-            auto p = q.front();
-            q.pop();
-
-            TreeNode* node = p.first;
-            int Hline = p.second;
-
-            if(mapp.find(Hline) == mapp.end())mapp[Hline] = node->val;
-            
-            if(node->right) q.push({node->right , Hline+1});
-            if(node->left) q.push({node->left , Hline+1});
-            
-        }
-        for(auto i : mapp){
-            ans.push_back(i.second);
-        }
+        rightView(root , 0 , ans);
         return ans;
     }
 };
