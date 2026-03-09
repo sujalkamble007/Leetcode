@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sujalkamble007/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalkamble007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/sujalkamble007/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1143-longest-common-subsequence](https://github.com/sujalkamble007/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sujalkamble007/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sujalkamble007/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Two Pointers
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalkamble007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sujalkamble007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sujalkamble007/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1143-longest-common-subsequence](https://github.com/sujalkamble007/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sujalkamble007/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sujalkamble007/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sujalkamble007/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
