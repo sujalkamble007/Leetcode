@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujalkamble007/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sujalkamble007/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2350-find-closest-number-to-zero](https://github.com/sujalkamble007/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujalkamble007/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sujalkamble007/Leetcode/tree/master/0062-unique-paths) |
 | [1014-k-closest-points-to-origin](https://github.com/sujalkamble007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2050-count-good-numbers](https://github.com/sujalkamble007/Leetcode/tree/master/2050-count-good-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujalkamble007/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sujalkamble007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/sujalkamble007/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sujalkamble007/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujalkamble007/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujalkamble007/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/sujalkamble007/Leetcode/tree/master/0455-assign-cookies) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujalkamble007/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujalkamble007/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sujalkamble007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sujalkamble007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sujalkamble007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujalkamble007/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
