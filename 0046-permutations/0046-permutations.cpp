@@ -11,22 +11,24 @@ public:
             //swap (index , i);
             //permutation (index +1 , ans ,nums);
             //swap (index , i) //backtrack
-    void permutation(int index , vector<int>& nums , vector<vector<int>>& ans){
-        if(index == nums.size()){
-            ans.push_back(nums);
-            return ;
-        }
-        else{
-            for(int i=index ; i<nums.size();i++){
-                swap(nums[index] ,nums[i]);
-                permutation(index+1 , nums, ans);
-                swap(nums[index] ,nums[i]);
-            }
-        }
+    
+void find(int index , vector<int>& arr , vector<vector<int>>&ans ){
+    if(index == arr.size()){
+        ans.push_back(arr);
+        return ;
     }
+    else{
+    for(int i=index;i<arr.size();i++){
+        swap(arr[index] , arr[i]);
+        find(index+1 , arr , ans);
+        swap(arr[index] , arr[i]);
+    }
+    }
+
+}
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>>ans;
-        permutation(0 , nums ,ans);
+        find(0 , nums , ans);
         return ans;
     }
 };
