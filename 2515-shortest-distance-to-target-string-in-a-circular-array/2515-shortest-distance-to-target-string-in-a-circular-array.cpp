@@ -6,7 +6,7 @@ public:
             if (words[(start + i) % n] == target |
                 words[(start - i + n) % n] == target)
                 return i;
-                
+
         return -1;
     }
 };
