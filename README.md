@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sujalkamble007/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sujalkamble007/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sujalkamble007/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2350-find-closest-number-to-zero](https://github.com/sujalkamble007/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2463-minimum-total-distance-traveled](https://github.com/sujalkamble007/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sujalkamble007/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/sujalkamble007/Leetcode/tree/master/0455-assign-cookies) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sujalkamble007/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sujalkamble007/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/sujalkamble007/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujalkamble007/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sujalkamble007/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
