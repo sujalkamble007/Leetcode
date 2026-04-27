@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sujalkamble007/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0874-walking-robot-simulation](https://github.com/sujalkamble007/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/sujalkamble007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujalkamble007/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sujalkamble007/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sujalkamble007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sujalkamble007/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/sujalkamble007/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sujalkamble007/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sujalkamble007/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sujalkamble007/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/sujalkamble007/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sujalkamble007/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Trie
@@ -437,5 +441,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
