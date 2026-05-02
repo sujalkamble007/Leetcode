@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalkamble007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/sujalkamble007/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/sujalkamble007/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/sujalkamble007/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/sujalkamble007/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sujalkamble007/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sujalkamble007/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sujalkamble007/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sujalkamble007/Leetcode/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/sujalkamble007/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/sujalkamble007/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/sujalkamble007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1622-fancy-sequence](https://github.com/sujalkamble007/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
