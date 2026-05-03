@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sujalkamble007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sujalkamble007/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0657-robot-return-to-origin](https://github.com/sujalkamble007/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/sujalkamble007/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/sujalkamble007/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sujalkamble007/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sujalkamble007/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/sujalkamble007/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sujalkamble007/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
