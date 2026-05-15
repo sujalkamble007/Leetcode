@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sujalkamble007/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalkamble007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sujalkamble007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sujalkamble007/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/sujalkamble007/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sujalkamble007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sujalkamble007/Leetcode/tree/master/0229-majority-element-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sujalkamble007/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sujalkamble007/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sujalkamble007/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sujalkamble007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/sujalkamble007/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sujalkamble007/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
