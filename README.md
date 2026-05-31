@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sujalkamble007/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sujalkamble007/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/sujalkamble007/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/sujalkamble007/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sujalkamble007/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/sujalkamble007/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujalkamble007/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sujalkamble007/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujalkamble007/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/sujalkamble007/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3161-block-placement-queries](https://github.com/sujalkamble007/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujalkamble007/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sujalkamble007/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/sujalkamble007/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -321,11 +323,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/sujalkamble007/Leetcode/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/sujalkamble007/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/sujalkamble007/Leetcode/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/sujalkamble007/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
+| [3161-block-placement-queries](https://github.com/sujalkamble007/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
