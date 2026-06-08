@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sujalkamble007/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sujalkamble007/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/sujalkamble007/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sujalkamble007/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2350-find-closest-number-to-zero](https://github.com/sujalkamble007/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujalkamble007/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/sujalkamble007/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/sujalkamble007/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujalkamble007/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/sujalkamble007/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sujalkamble007/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/sujalkamble007/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/sujalkamble007/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Divide and Conquer
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/sujalkamble007/Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sujalkamble007/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sujalkamble007/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/sujalkamble007/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/sujalkamble007/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sujalkamble007/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
