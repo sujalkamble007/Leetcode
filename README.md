@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sujalkamble007/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sujalkamble007/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sujalkamble007/Leetcode/tree/master/0062-unique-paths) |
+| [0258-add-digits](https://github.com/sujalkamble007/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0396-rotate-function](https://github.com/sujalkamble007/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/sujalkamble007/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/sujalkamble007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/sujalkamble007/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sujalkamble007/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/sujalkamble007/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/sujalkamble007/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/sujalkamble007/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/sujalkamble007/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/sujalkamble007/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sujalkamble007/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
