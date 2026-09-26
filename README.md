@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sujalkamble007/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sujalkamble007/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sujalkamble007/Leetcode/tree/master/0018-4sum) |
@@ -109,8 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sujalkamble007/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sujalkamble007/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalkamble007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sujalkamble007/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -142,8 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sujalkamble007/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sujalkamble007/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/sujalkamble007/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sujalkamble007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sujalkamble007/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -171,8 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/sujalkamble007/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sujalkamble007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sujalkamble007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sujalkamble007/Leetcode/tree/master/0062-unique-paths) |
@@ -198,8 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sujalkamble007/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/sujalkamble007/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sujalkamble007/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sujalkamble007/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -223,8 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/sujalkamble007/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/sujalkamble007/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sujalkamble007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sujalkamble007/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sujalkamble007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -235,8 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sujalkamble007/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sujalkamble007/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/sujalkamble007/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sujalkamble007/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/sujalkamble007/Leetcode/tree/master/0056-merge-intervals) |
@@ -263,8 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sujalkamble007/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sujalkamble007/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sujalkamble007/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sujalkamble007/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sujalkamble007/Leetcode/tree/main/0009-palindrome-number/) | Easy |
@@ -289,8 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sujalkamble007/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/sujalkamble007/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sujalkamble007/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujalkamble007/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sujalkamble007/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -310,15 +310,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujalkamble007/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sujalkamble007/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0090-subsets-ii](https://github.com/sujalkamble007/Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sujalkamble007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/sujalkamble007/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sujalkamble007/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sujalkamble007/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sujalkamble007/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sujalkamble007/Leetcode/tree/master/0050-powx-n) |
@@ -326,43 +326,43 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sujalkamble007/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/sujalkamble007/Leetcode/tree/master/2050-count-good-numbers) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/sujalkamble007/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sujalkamble007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sujalkamble007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/sujalkamble007/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/sujalkamble007/Leetcode/tree/master/0062-unique-paths) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/sujalkamble007/Leetcode/tree/master/0493-reverse-pairs) |
 | [3161-block-placement-queries](https://github.com/sujalkamble007/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/sujalkamble007/Leetcode/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/sujalkamble007/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/sujalkamble007/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/sujalkamble007/Leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/sujalkamble007/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/sujalkamble007/Leetcode/tree/master/0493-reverse-pairs) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sujalkamble007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalkamble007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sujalkamble007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sujalkamble007/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -390,15 +390,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sujalkamble007/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sujalkamble007/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalkamble007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1871-jump-game-vii](https://github.com/sujalkamble007/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sujalkamble007/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sujalkamble007/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sujalkamble007/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sujalkamble007/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sujalkamble007/Leetcode/tree/master/0021-merge-two-sorted-lists) |
@@ -413,21 +413,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/sujalkamble007/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/sujalkamble007/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sujalkamble007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sujalkamble007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sujalkamble007/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sujalkamble007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2751-robot-collisions](https://github.com/sujalkamble007/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sujalkamble007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sujalkamble007/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0455-assign-cookies](https://github.com/sujalkamble007/Leetcode/tree/master/0455-assign-cookies) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sujalkamble007/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sujalkamble007/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -438,8 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/sujalkamble007/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujalkamble007/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0039-combination-sum](https://github.com/sujalkamble007/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sujalkamble007/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sujalkamble007/Leetcode/tree/master/0046-permutations) |
@@ -448,8 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sujalkamble007/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sujalkamble007/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sujalkamble007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sujalkamble007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sujalkamble007/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -457,24 +457,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sujalkamble007/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sujalkamble007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sujalkamble007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sujalkamble007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sujalkamble007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sujalkamble007/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/sujalkamble007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sujalkamble007/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/sujalkamble007/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sujalkamble007/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/sujalkamble007/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -488,8 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sujalkamble007/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sujalkamble007/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sujalkamble007/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sujalkamble007/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/sujalkamble007/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
@@ -504,8 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/sujalkamble007/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sujalkamble007/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sujalkamble007/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -513,71 +513,71 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/sujalkamble007/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujalkamble007/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujalkamble007/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sujalkamble007/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1622-fancy-sequence](https://github.com/sujalkamble007/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/sujalkamble007/Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/sujalkamble007/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/sujalkamble007/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sujalkamble007/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0796-rotate-string](https://github.com/sujalkamble007/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sujalkamble007/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1306-jump-game-iii](https://github.com/sujalkamble007/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sujalkamble007/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujalkamble007/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sujalkamble007/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/sujalkamble007/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1306-jump-game-iii](https://github.com/sujalkamble007/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/sujalkamble007/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sujalkamble007/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/sujalkamble007/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/sujalkamble007/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/sujalkamble007/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sujalkamble007/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Euclidean Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/sujalkamble007/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/sujalkamble007/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/sujalkamble007/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/sujalkamble007/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
