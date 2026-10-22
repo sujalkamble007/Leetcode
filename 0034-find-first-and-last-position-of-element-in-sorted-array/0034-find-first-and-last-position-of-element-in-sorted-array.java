@@ -1,46 +1,56 @@
 class Solution {
 
-    public int lowerBound(int[] arr , int target){
+    public int firstOccurance(int[] nums , int target){
         int low = 0;
-        int high = arr.length - 1;
+        int high = nums.length - 1;
 
-        int ans = arr.length ;
-
-        while(low <= high){
-            int mid = (low + high) / 2;
-            if(arr[mid] >= target){
-                ans = mid;
-                high = mid - 1;
-            }else {
-                low = mid + 1;
-            }
-        }
-        return ans;
-    }
-
-    public int upperBound(int[] arr , int target){
-        int low = 0;
-        int high = arr.length - 1;
-        int ans = arr.length ;
+        int ans = nums.length ;
 
         while(low <= high){
             int mid = (low + high) / 2;
 
-            if(arr[mid] > target){
+            if(nums[mid] == target){
                 ans = mid ;
-                high = mid -1 ;
-            }else {
+                high = mid - 1;
+            }else if(nums[mid] > target){
+                high = mid - 1;
+            }else{
                 low = mid + 1;
             }
         }
         return ans;
     }
+
+    public int lastOccurance(int[] nums , int target){
+        int low = 0;
+        int high = nums.length -1 ;
+        int ans = nums.length ;
+
+        while(low <= high){
+            int mid = (low + high)/2;
+            if(nums[mid] == target){
+                ans = mid;
+                low = mid + 1;
+            }else if(nums[mid] < target){
+                low = mid + 1;
+            }else{
+                high = mid - 1;
+            }
+        }
+        return ans;
+    }
+
 
     public int[] searchRange(int[] nums, int target) {
-        int lb = lowerBound(nums , target);
-        if(lb == nums.length  || nums[lb] != target) return new int[]{-1 , -1};
-        int ub = upperBound(nums , target);
+        //To solve this question there are two ways
+        //1. return [lb , ub -1]
+        //2.Apply Binary Serach for first(update adn left) and last(update and go right)
 
-        return new int[]{lb , ub - 1};
+        int first = firstOccurance(nums , target);
+        if(first == nums.length ) return new int[]{-1 , -1};
+
+        int last = lastOccurance(nums , target);
+
+        return new int[]{first , last}; 
     }
 }
