@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sujalkamble007/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sujalkamble007/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sujalkamble007/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sujalkamble007/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/sujalkamble007/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sujalkamble007/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/sujalkamble007/Leetcode/tree/main/0401-binary-watch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/sujalkamble007/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sujalkamble007/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
