@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sujalkamble007/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/sujalkamble007/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/sujalkamble007/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/sujalkamble007/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/sujalkamble007/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sujalkamble007/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sujalkamble007/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sujalkamble007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sujalkamble007/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sujalkamble007/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/sujalkamble007/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2751-robot-collisions](https://github.com/sujalkamble007/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sujalkamble007/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/sujalkamble007/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
