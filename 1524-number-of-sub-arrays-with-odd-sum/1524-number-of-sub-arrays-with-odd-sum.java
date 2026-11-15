@@ -20,6 +20,22 @@ class Solution {
 // this is wrong
 
 // we have to get the 
+// An odd-sum subarray is formed by taking the difference between:
+// - An even prefix sum.
+// - An odd prefix sum.
+// Therefore, every even prefix can pair with every odd prefix.
+// Answer = EvenCount \times OddCount
+
+
+// Prefix 1	Prefix 2	Difference
+// Even	       Even	        Even
+// Odd	            Odd     	Even
+// Even	        Odd     	Odd
+// Odd         	Even	    Odd
+
+
+// Prefix:       1    3    6    10    15    21    28
+// Parity:       O    O    E     E     O     O     E
 
     public int numOfSubarrays(int[] arr) {
         long result =0;
