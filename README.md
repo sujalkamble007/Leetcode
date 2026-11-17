@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sujalkamble007/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sujalkamble007/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/sujalkamble007/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/sujalkamble007/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/sujalkamble007/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sujalkamble007/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/sujalkamble007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sujalkamble007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sujalkamble007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/sujalkamble007/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/sujalkamble007/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1345-jump-game-iv](https://github.com/sujalkamble007/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sujalkamble007/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sujalkamble007/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalkamble007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/sujalkamble007/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sujalkamble007/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkamble007/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1871-jump-game-vii](https://github.com/sujalkamble007/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
