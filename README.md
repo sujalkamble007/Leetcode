@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sujalkamble007/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/sujalkamble007/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0912-sort-an-array](https://github.com/sujalkamble007/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/sujalkamble007/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/sujalkamble007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1254-number-of-closed-islands](https://github.com/sujalkamble007/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/sujalkamble007/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sujalkamble007/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sujalkamble007/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sujalkamble007/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/sujalkamble007/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sujalkamble007/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sujalkamble007/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/sujalkamble007/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalkamble007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/sujalkamble007/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkamble007/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1871-jump-game-vii](https://github.com/sujalkamble007/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sujalkamble007/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/sujalkamble007/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkamble007/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujalkamble007/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sujalkamble007/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
