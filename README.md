@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/sujalkamble007/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/sujalkamble007/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/sujalkamble007/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/sujalkamble007/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkamble007/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujalkamble007/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sujalkamble007/Leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/sujalkamble007/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/sujalkamble007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sujalkamble007/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujalkamble007/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1622-fancy-sequence](https://github.com/sujalkamble007/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sujalkamble007/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sujalkamble007/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/sujalkamble007/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkamble007/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujalkamble007/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sujalkamble007/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sujalkamble007/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1622-fancy-sequence](https://github.com/sujalkamble007/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/sujalkamble007/Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Enumeration
@@ -671,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sujalkamble007/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sujalkamble007/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
